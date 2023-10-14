@@ -33,7 +33,7 @@ This Streamlit-powered application allows users to visualise and analyse the his
 Access the application:
 Open your web browser and go to http://localhost:8501 to use the application.
 
-Usage
+Usage:
 Enter S&P 500 stock symbols (comma-separated) in the input field.
 Select a custom start and end date for data analysis.
 View the historical stock price data and its linear regression in interactive graphs.
