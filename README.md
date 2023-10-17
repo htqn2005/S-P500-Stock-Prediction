@@ -9,8 +9,8 @@ This Streamlit-powered application allows users to visualise and analyse the his
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/your-username/sp500-visualizer.git
-   cd sp500-visualizer
+   git clone https://github.com/your-username/sp500-stock-prediction.git
+   cd sp500-stock-prediction
 2. **Create a virtual environment (venv):**
 
    ```
